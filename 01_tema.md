@@ -6,7 +6,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-- Grupo: `[preencher]`
+- Grupo: `[Trabalho individual]`
 - Integrantes: `[Gustavo Luiz Luchesi]`
 - Data: `[24/09/2026]`
 
@@ -54,4 +54,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Gustavo Luiz Luchesi ]` | `[preencher]` |
+| `[Gustavo Luiz Luchesi]` | `[Definição do tema, delimitação, justificativa e análise de viabilidade]` |

@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Gustavo Luiz Luchesi]` | `[preencher]` |
+| `[Gustavo Luiz Luchesi]` | `[Formulação e verificação da pergunta de pesquisa]` |
