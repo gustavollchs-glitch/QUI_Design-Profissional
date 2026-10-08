@@ -8,8 +8,8 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 * Título do artigo: Acessibilidade digital em interfaces web brasileiras: aplicação das diretrizes WCAG 2.1 e barreiras à conformidade
 * Versão revisada: 1
-* Data: `[dd/mm/aaaa]`
-* Responsável pela conferência final: `[preencher]`
+* Data: `[08/10/2026]`
+* Responsável pela conferência final: `[Gustavo Luiz Luchesi]`
 
 ## Revisão científica
 
@@ -46,11 +46,11 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|Artigo completo|Primeira versão com 770 palavras, acima do limite de 700|Enxugamento de redundâncias na introdução, metodologia e revisão, sem perda de conteúdo; versão final com 699 palavras|`[nome]`|
-|Revisão da literatura|Risco de virar sequência de resumos|Reorganização por eixos temáticos, com comparação direta entre os três estudos|`[nome]`|
-|Metodologia|Descrição genérica da busca|Inclusão das bases consultadas, dos descritores e dos critérios de inclusão e exclusão efetivamente aplicados|`[nome]`|
-|Etapa 4|Fichamentos preenchidos a partir de resumo e leitura parcial|`[registrar após a leitura integral dos três artigos pelo grupo]`|`[nome]`|
-|Referências|Conferência de DOI e paginação pendente|`[registrar após conferência nos sites das publicações]`|`[nome]`|
+|Artigo completo|Primeira versão com 770 palavras, acima do limite de 700|Enxugamento de redundâncias na introdução, metodologia e revisão, sem perda de conteúdo; versão final com 699 palavras|`[Gustavo Luiz Luchesi]`|
+|Revisão da literatura|Risco de virar sequência de resumos|Reorganização por eixos temáticos, com comparação direta entre os três estudos|`[Gustavo Luiz Luchesi]`|
+|Metodologia|Descrição genérica da busca|Inclusão das bases consultadas, dos descritores e dos critérios de inclusão e exclusão efetivamente aplicados|`[Gustavo Luiz Luchesi]`|
+|Etapa 4|Fichamentos preenchidos a partir de resumo e leitura parcial|`[registrar após a leitura integral dos três artigos pelo grupo]`|`[Gustavo Luiz Luchesi]`|
+|Referências|Conferência de DOI e paginação pendente|`[registrar após conferência nos sites das publicações]`|`[Gustavo Luiz Luchesi]`|
 
 ## Pendências antes da entrega
 

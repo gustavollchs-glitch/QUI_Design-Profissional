@@ -11,8 +11,8 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: CAMARGO, Marcos Vinicius Lopes; SANTOS, Sylvana Karla S. L. Avaliação da acessibilidade digital do site de governo Meu INSS com foco no desenvolvedor. In: SIMPÓSIO BRASILEIRO SOBRE FATORES HUMANOS EM SISTEMAS COMPUTACIONAIS (IHC), 24., 2025, Belo Horizonte. **Anais Estendidos**. Porto Alegre: Sociedade Brasileira de Computação, 2025. p. 175-179.
 * DOI ou URL: https://doi.org/10.5753/ihc_estendido.2025.13256
 * Base de origem: SOL — Biblioteca Digital da Sociedade Brasileira de Computação
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Leitor responsável: `[Gustavo Luiz Luchesi]`
+* Data da leitura: `[08/10/2026]`
 
 ## Fichamento
 

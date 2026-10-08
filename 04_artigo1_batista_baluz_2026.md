@@ -11,8 +11,8 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: BATISTA, Heron Eduardo Nepomuceno; BALUZ, Rodrigo Augusto Rocha Souza. Avaliação de sites das instituições de ensino superior de acordo com as diretrizes de acessibilidade para conteúdo web (WCAG 2.1): uma análise comparativa das principais universidades federais e estaduais do Brasil. **iSys: Revista Brasileira de Sistemas de Informação**, v. 18, n. 1, p. 14:1-14:27, 2026.
 * DOI ou URL: https://journals-sol.sbc.org.br/index.php/isys/article/view/5401
 * Base de origem: iSys — Revista Brasileira de Sistemas de Informação (SBC)
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Leitor responsável: `[Gustavo Luiz Luchesi]`
+* Data da leitura: `[08/10/2026]`
 
 ## Fichamento
 

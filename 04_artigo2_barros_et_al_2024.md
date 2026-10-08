@@ -11,8 +11,8 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: BARROS, Ygor Santos; OUTÃO, Juliana Carvalho Silva do; SACRAMENTO, Carolina; FERREIRA, Simone Bacellar Leal; PIMENTEL, Mariano Gomes; SANTOS, Rodrigo Pereira dos. Avaliação de acessibilidade da plataforma Gov.br por ferramentas automatizadas. In: LATIN AMERICAN SYMPOSIUM ON DIGITAL GOVERNMENT (LASDiGov), 12., 2024, Brasília. **Anais**. Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 50-61.
 * DOI ou URL: https://doi.org/10.5753/wcge.2024.2282
 * Base de origem: SOL — Biblioteca Digital da Sociedade Brasileira de Computação
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Leitor responsável: `[Gustavo Luiz Luchesi]`
+* Data da leitura: `[08/10/2026]`
 
 ## Fichamento
 
