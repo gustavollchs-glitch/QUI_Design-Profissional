@@ -44,9 +44,9 @@ A acessibilidade digital é obrigação legal no Brasil desde 2015, mas sua apli
 
 ## Referências
 
-BARROS, Ygor Santos; OUTÃO, Juliana Carvalho Silva do; SACRAMENTO, Carolina; FERREIRA, Simone Bacellar Leal; PIMENTEL, Mariano Gomes; SANTOS, Rodrigo Pereira dos. Avaliação de acessibilidade da plataforma Gov.br por ferramentas automatizadas. In: LATIN AMERICAN SYMPOSIUM ON DIGITAL GOVERNMENT (LASDiGov), 12., 2024, Brasília. **Anais**. Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 50-61. DOI: 10.5753/wcge.2024.2282.
+BARROS, Ygor Santos; OUTÃO, Juliana Carvalho Silva do; SACRAMENTO, Carolina; FERREIRA, Simone Bacellar Leal; PIMENTEL, Mariano Gomes; SANTOS, Rodrigo Pereira dos. Avaliação de acessibilidade da plataforma Gov.br por ferramentas automatizadas. In: WORKSHOP DE COMPUTAÇÃO APLICADA EM GOVERNO ELETRÔNICO (WCGE), 12., 2024, Brasília. **Anais**. Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 50-61. DOI: 10.5753/wcge.2024.2282.
 
-BATISTA, Heron Eduardo Nepomuceno; BALUZ, Rodrigo Augusto Rocha Souza. Avaliação de sites das instituições de ensino superior de acordo com as diretrizes de acessibilidade para conteúdo web (WCAG 2.1): uma análise comparativa das principais universidades federais e estaduais do Brasil. **iSys: Revista Brasileira de Sistemas de Informação**, v. 18, n. 1, p. 14:1-14:27, 2026.
+BATISTA, Heron Eduardo Nepomuceno; BALUZ, Rodrigo Augusto Rocha Souza. Avaliação de sites das instituições de ensino superior de acordo com as diretrizes de acessibilidade para conteúdo web (WCAG 2.1): uma análise comparativa das principais universidades federais e estaduais do Brasil. **iSys: Revista Brasileira de Sistemas de Informação**, v. 18, n. 1, p. 14:1-14:27, 2026. DOI: 10.5753/isys.2025.5401.
 
 BRASIL. Lei nº 13.146, de 6 de julho de 2015. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência. **Diário Oficial da União**, Brasília, DF, 7 jul. 2015.
 

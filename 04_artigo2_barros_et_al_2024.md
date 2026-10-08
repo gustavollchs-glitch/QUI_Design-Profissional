@@ -8,7 +8,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: BARROS, Ygor Santos; OUTÃO, Juliana Carvalho Silva do; SACRAMENTO, Carolina; FERREIRA, Simone Bacellar Leal; PIMENTEL, Mariano Gomes; SANTOS, Rodrigo Pereira dos. Avaliação de acessibilidade da plataforma Gov.br por ferramentas automatizadas. In: LATIN AMERICAN SYMPOSIUM ON DIGITAL GOVERNMENT (LASDiGov), 12., 2024, Brasília. **Anais**. Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 50-61.
+* Referência completa: BARROS, Ygor Santos; OUTÃO, Juliana Carvalho Silva do; SACRAMENTO, Carolina; FERREIRA, Simone Bacellar Leal; PIMENTEL, Mariano Gomes; SANTOS, Rodrigo Pereira dos. Avaliação de acessibilidade da plataforma Gov.br por ferramentas automatizadas. In: WORKSHOP DE COMPUTAÇÃO APLICADA EM GOVERNO ELETRÔNICO (WCGE), 12., 2024, Brasília. **Anais**. Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 50-61.
 * DOI ou URL: https://doi.org/10.5753/wcge.2024.2282
 * Base de origem: SOL — Biblioteca Digital da Sociedade Brasileira de Computação
 * Leitor responsável: `[Gustavo Luiz Luchesi]`
@@ -50,14 +50,14 @@ A força do estudo é o uso de quatro ferramentas distintas, que expõe a varia�
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> "Após a realização da avaliação de acessibilidade com as ferramentas ASES, AccessMonitor e TAW, pode-se afirmar que nenhuma das páginas avaliadas está em conformidade com as diretrizes de acessibilidade internacionais, exigidas na LBI (Lei n° 13.146/2015)."
 
-Página: `[número]`
+Página: 57
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
+* [x] O artigo foi lido além do resumo.
 * [x] O método e os resultados foram identificados.
 * [x] As limitações foram registradas.
 * [x] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] Toda citação literal contém página.

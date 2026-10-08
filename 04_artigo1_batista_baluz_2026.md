@@ -8,8 +8,8 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: BATISTA, Heron Eduardo Nepomuceno; BALUZ, Rodrigo Augusto Rocha Souza. Avaliação de sites das instituições de ensino superior de acordo com as diretrizes de acessibilidade para conteúdo web (WCAG 2.1): uma análise comparativa das principais universidades federais e estaduais do Brasil. **iSys: Revista Brasileira de Sistemas de Informação**, v. 18, n. 1, p. 14:1-14:27, 2026.
-* DOI ou URL: https://journals-sol.sbc.org.br/index.php/isys/article/view/5401
+* Referência completa: BATISTA, Heron Eduardo Nepomuceno; BALUZ, Rodrigo Augusto Rocha Souza. Avaliação de sites das instituições de ensino superior de acordo com as diretrizes de acessibilidade para conteúdo web (WCAG 2.1): uma análise comparativa das principais universidades federais e estaduais do Brasil. **iSys: Revista Brasileira de Sistemas de Informação**, v. 18, n. 1, p. 14:1-14:27, 2026. DOI: 10.5753/isys.2025.5401.
+* DOI ou URL: https://doi.org/10.5753/isys.2025.5401 (https://journals-sol.sbc.org.br/index.php/isys/article/view/5401)
 * Base de origem: iSys — Revista Brasileira de Sistemas de Informação (SBC)
 * Leitor responsável: `[Gustavo Luiz Luchesi]`
 * Data da leitura: `[08/10/2026]`
@@ -50,14 +50,14 @@ A principal força é o tamanho da amostra e a padronização do procedimento, q
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> "Problemas recorrentes, como a ausência de textos alternativos, baixa qualidade no contraste entre texto e plano de fundo e dificuldades na navegação por teclado, destacam a negligência generalizada em questões de usabilidade e inclusão digital."
 
-Página: `[número]`
+Página: 14:20
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
+* [x] O artigo foi lido além do resumo.
 * [x] O método e os resultados foram identificados.
 * [x] As limitações foram registradas.
 * [x] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] Toda citação literal contém página.

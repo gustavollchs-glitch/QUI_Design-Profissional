@@ -50,14 +50,14 @@ A força está no recorte pelo desenvolvedor, que aproxima o diagnóstico da pr�
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> "A detecção de falhas para a equipe de desenvolvedores permite sensibilizar para as necessidades específicas de usuários."
 
-Página: `[número]`
+Página: 178
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
+* [x] O artigo foi lido além do resumo.
 * [x] O método e os resultados foram identificados.
 * [x] As limitações foram registradas.
 * [x] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] Toda citação literal contém página.
